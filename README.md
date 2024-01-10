@@ -59,15 +59,6 @@ As a candidate, you should have at least two years of professional development e
 
 - Create solutions by using Azure Container Apps
 
-### Implement containerized solutions
-- Create and manage container images for solutions
-
-- Publish an image to Azure Container Registry
-
-- Run containers by using Azure Container Instance
-
-- Create solutions by using Azure Container Apps
-
 ### Implement Azure App Service Web Apps
 - Create an Azure App Service Web App
 
