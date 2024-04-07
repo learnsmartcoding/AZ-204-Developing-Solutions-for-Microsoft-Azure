@@ -121,7 +121,7 @@ As a candidate, you should have at least two years of professional development e
 - Implement Azure Content Delivery Network endpoints and profiles
 
 ### Troubleshoot solutions by using Application Insights
-- Configure an app or service to use Application Insights
+- [Configure an app or service to use Application Insights](https://youtu.be/SmcYJLqBJ7U?si=HDWeXaj4nw1bqY2N)
 
 - Monitor and analyze metrics, logs, and traces
 
@@ -129,7 +129,8 @@ As a candidate, you should have at least two years of professional development e
 
 # Connect to and consume Azure services and third-party services (15–20%)
 
-### Implement API Management
+### Implement API Management 
+[Azure API Management: Full Course on Managing and Securing APIs in the Cloud](https://youtu.be/Kn7NRH9h_ug?si=7yhKa86WD_Org3Wx)
 - Create an Azure API Management instance
 
 - Create and document APIs
